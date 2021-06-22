@@ -586,5 +586,3 @@ class R_MarketMatching():
         print('Matching (pre) Period MAPE: ')
 
         return results
-
-        
